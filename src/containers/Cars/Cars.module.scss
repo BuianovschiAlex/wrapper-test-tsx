@@ -1,0 +1,48 @@
+.wrapper {
+  display: inline;
+}
+
+.buttons {
+  display: inline;
+  justify-content: center;
+  margin: 30px;
+  height: 200px;
+  width: 200px;
+}
+
+.buttonMers {
+  padding: 10px;
+  cursor: pointer;
+}
+
+.buttonBmw {
+  padding: 10px;
+  cursor: pointer;
+  margin-left: 20px;
+}
+
+.buttonMers:hover {
+  background-color: rgb(205, 203, 203);
+  opacity: 9;
+}
+
+.buttonBmw:hover {
+  background-color: rgb(205, 203, 203);
+  opacity: 9;
+}
+
+.imgMercedes {
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  height: 150px;
+  width: 100%;
+}
+
+.imgBmw {
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  height: 150px;
+  width: 100%;
+}
